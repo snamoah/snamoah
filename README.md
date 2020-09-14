@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on ...
 
     * [Bitwala](https://www.bitwala.com?utm_source=samuel_github) as a FullStack Engineer
-    
-    * How to best prepare for my wedding anniversary (_Watch this space_ :wink:)
 
 
 - 🌱 I’m currently learning: ...
