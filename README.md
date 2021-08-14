@@ -1,16 +1,16 @@
 ### Heya 👋,
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently:
 
-    * [Bitwala](https://www.bitwala.com?utm_source=samuel_github) as a FullStack Engineer
+    * working on [Gruut](https://gruut.xyz?utm_source=snamoah_github)
+   
+    * writing my learnings on my [blog](https://snamoah.dev/blog?utm_source=snamaoh_github)
 
 
-- 🌱 I’m currently learning: ...
+- 🌱 ...and learning
 
     * Designing data-intensive applications. You can find the book [here on Amazon](https://www.amazon.de/dp/1449373321/ref=cm_sw_em_r_mt_dp_J9QnFbXAP5DBQ).
-
-    * Data Science, Machine Learning, AI
 
     * Blockchain (both cryptocurrency trading and developing blockchain bots/apps)
 
@@ -33,14 +33,10 @@
 
 - 📫 How to reach me: ...
 
-    * Twitter: [@snamoah](https://twitter.com/snamoah?utm_source=samuel_github)
+    * Twitter: [@snamoah](https://twitter.com/snamoah?utm_source=snamoah_github)
     
     * LinkedIn: [snamoah](https://linkedin/in/snamoah)
 
     * Mail: [sa.am@programmer.net](mailto:sa.am@programmer.net)
 
-
-- ⚡ Fun fact: ...
-
-    * I've tried so many times to grow fat, it just doesn't seem to happen :sweat_smile:
 
