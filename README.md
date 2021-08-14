@@ -1,4 +1,4 @@
-### Heya 👋,
+### Heya 👋🏾
 
 
 - 🔭 I’m currently:
