@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently:
 
-    * working on [Gruut](https://gruut.xyz?utm_source=snamoah_github)
+    * working as a software engineer [@smartlyio](https://github.com/smartlyio)
    
     * writing my learnings on my [blog](https://snamoah.dev/blog?utm_source=snamaoh_github)
 
