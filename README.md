@@ -5,7 +5,7 @@
 
     * working as a software engineer [@smartlyio](https://github.com/smartlyio)
    
-    * writing my learnings on my [blog](https://snamoah.dev/blog?utm_source=snamaoh_github)
+    * writing my learnings on my [blog](https://snamoah.dev/blog?utm_source=snamoah_github)
 
 
 - 🌱 ...and learning
