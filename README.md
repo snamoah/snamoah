@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently:
 
-    * working as a software engineer [@smartlyio](https://github.com/smartlyio)
+    * working as a software engineer [@shopify](https://github.com/shopify)
    
     * writing my learnings on my [blog](https://snamoah.dev/blog?utm_source=snamoah_github)
 
@@ -37,6 +37,5 @@
     
     * LinkedIn: [snamoah](https://linkedin/in/snamoah)
 
-    * Mail: [sa.am@programmer.net](mailto:sa.am@programmer.net)
 
 
